@@ -67,7 +67,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus 
 </details>
 <hr>
 
-## By Vendor
+## Cloud Vendor
 <details>
 <summary>&#x25B6; AWS</summary>
 
