@@ -12,10 +12,6 @@ Happy Learning!
 
 Please note, that all the resources mentioned here are publicly available resources.
 
-## What is DevOps ?
-DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. 
-<hr>
-
 ## Curated GitPages
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus a est elementum feugiat et vel augue.
 <hr>
