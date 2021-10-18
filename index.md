@@ -12,19 +12,27 @@ Happy Learning!
 
 Please note, that all the resources mentioned here are publicly available resources.
 
-## Curated GitPages
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus a est elementum feugiat et vel augue.
+
+
+## Top Reads of the Month
+ <ul>
+  <li><a href="https://www.ibm.com/cloud/learn/microservices">What are Microservices - IBM</a></li>
+  <li><a href="https://aws.amazon.com/microservices">What are Microservices - AWS</a></li>
+  <li><a href="https://www.redhat.com/en/topics/microservices">Understanding Microservices - Redhat</a></li>
+</ul>  
 <hr>
 
-## Customer Stories
-  Customer-name01
-
+## Curated GitPages - Quick References
+<ul>
+  <li><a href="https://www.ibm.com/cloud/learn/microservices">What are Microservices - IBM</a></li>
+  <li><a href="https://aws.amazon.com/microservices">What are Microservices - AWS</a></li>
+  <li><a href="https://www.redhat.com/en/topics/microservices">Understanding Microservices - Redhat</a></li>
+</ul>  
 <hr>
 
 ## By Technology
-
 <details>
-<summary>&#x25B6; Microservices</summary>
+<summary>&#x25B6; ModernApp</summary>
 <ul>
   <li><a href="https://www.ibm.com/cloud/learn/microservices">What are Microservices - IBM</a></li>
   <li><a href="https://aws.amazon.com/microservices">What are Microservices - AWS</a></li>
@@ -33,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus 
 </details>
 <hr>
 <details>
-<summary>&#x25B6; DevOps</summary>
+<summary>&#x25B6; DevSecOps</summary>
 <ul>
 <li><a href="https://aws.amazon.com/devops/what-is-devops">What is DevOps? - Amazon</a></li>
 <li><a href="https://www.atlassian.com/devops">What is DevOps? - Atlassian</a></li>
@@ -56,7 +64,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus 
 </details>
 <hr>
 <details>
-<summary>&#x25B6; Application Modernization</summary>
+<summary>&#x25B6; Distributed Multi-Cloud</summary>
+<ul>
+<li><a href="https://www.vmware.com/topics/glossary/content/application-modernization">What is application modernization - IBM</a></li>
+</ul>
+</details>
+<hr>
+<details>
+<summary>&#x25B6; Security</summary>
+<ul>
+<li><a href="https://www.vmware.com/topics/glossary/content/application-modernization">What is application modernization - IBM</a></li>
+</ul>
+</details>
+<hr>
+<details>
+<summary>&#x25B6; AI/ML</summary>
 <ul>
 <li><a href="https://www.vmware.com/topics/glossary/content/application-modernization">What is application modernization - IBM</a></li>
 </ul>
