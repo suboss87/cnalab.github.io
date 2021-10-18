@@ -126,8 +126,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus 
 </details>
 <hr>
 
-## By year 
-## 2021
+## Business and Strategy
 * [CI/CD Pipelines for Kubernetes Apps with Pulumi & Codefresh - Codefresh](https://codefresh.io/webinars/ci-cd-pipelines-kubernetes-apps-pulumi-codefresh) 
 * [Using Google Container Registry To Invoke Codefresh Pipelines - Codefresh](https://codefresh.io/continuous-integration/using-google-container-registry-invoke-codefresh-pipelines/) 
 * [What Is Zero Trust & How Do We Implement It to Run Secure CI/CD Workflows in Kubernetes? - Codefresh](https://codefresh.io/security-testing/codefresh-runner-overview) 
